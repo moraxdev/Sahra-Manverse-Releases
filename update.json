@@ -1,11 +1,11 @@
 {
   "android": {
-    "version": "0.4.2",
-    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.2.apk",
-    "notes": "السجل بقى من غير حد أقصى، وفيه تاريخ ووقت آخر مرة فتحت الفصل، وزرار مسح السجل تحت.",
+    "version": "0.4.3",
+    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.3.apk",
+    "notes": "عدد فصول كل عمل في صفحة التوب، وإصلاح إن 3asq كان بيعرض آخر 50 فصل بس.",
     "force": false,
-    "code": 9,
+    "code": 10,
     "minCode": 0,
-    "sha256": "37edf16fd428253a2b56350071d6e00c2dc97b75f71ee78c55d3d57374d0bf67"
+    "sha256": "76a0a087c6876bf0c0a9c775bb4b10a271d0ecdc65ab82b038f8cf67fd69e389"
   }
 }
