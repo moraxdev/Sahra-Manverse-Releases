@@ -1,0 +1,11 @@
+{
+  "android": {
+    "version": "0.2.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.2.0.apk",
+    "notes": "زوم في القارئ، صفحة إعدادات وتغيير اللغة، سجل القراءة، صفحة الإحصائيات، ومصدر جديد 3asq.",
+    "force": false,
+    "code": 2,
+    "minCode": 0,
+    "sha256": "0858e2446c9bfbc8ce6f80ce61f4e856b524c3b6760a7c7b909051094e180f67"
+  }
+}
