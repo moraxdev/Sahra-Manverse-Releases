@@ -1,11 +1,11 @@
 {
   "android": {
-    "version": "0.4.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.0.apk",
-    "notes": "شيلنا MangaDex، إصلاح تهنيج جواهر مستخبية، وسجل الأعطال بقى بيلقط التهنيج كمان.",
+    "version": "0.4.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.1.apk",
+    "notes": "التقييم من 10 وعدد المشاهدات على صورة كل عمل، وشيلنا صفحة الإحصائيات.",
     "force": false,
-    "code": 7,
+    "code": 8,
     "minCode": 0,
-    "sha256": "bd843a543fcbea036fbdb2f1cd3a168917970cf04c617b06721f867f59e39cc1"
+    "sha256": "1d5deacbf85bb3ed6001ad60d09f9d50d6f057938d50fd194fdabc965851511c"
   }
 }
