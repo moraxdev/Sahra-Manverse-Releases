@@ -1,11 +1,11 @@
 {
   "android": {
-    "version": "0.4.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.1.apk",
-    "notes": "التقييم من 10 وعدد المشاهدات على صورة كل عمل، وشيلنا صفحة الإحصائيات.",
+    "version": "0.4.2",
+    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.2.apk",
+    "notes": "السجل بقى من غير حد أقصى، وفيه تاريخ ووقت آخر مرة فتحت الفصل، وزرار مسح السجل تحت.",
     "force": false,
-    "code": 8,
+    "code": 9,
     "minCode": 0,
-    "sha256": "1d5deacbf85bb3ed6001ad60d09f9d50d6f057938d50fd194fdabc965851511c"
+    "sha256": "37edf16fd428253a2b56350071d6e00c2dc97b75f71ee78c55d3d57374d0bf67"
   }
 }
