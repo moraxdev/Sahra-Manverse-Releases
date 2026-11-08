@@ -1,11 +1,11 @@
 {
   "android": {
-    "version": "0.3.0",
-    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.3.0.apk",
-    "notes": "فلترة وترتيب كامل في استكشف، وصفحة Top 10 و Top 50 بالمشاهدات أو التقييم أو الرائج أو الأفضل إجمالاً، وجواهر مستخبية.",
+    "version": "0.3.1",
+    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.3.1.apk",
+    "notes": "إصلاح القفل في فصول المانهوا الطويلة، تحميل أسرع في كل الصفحات خصوصاً الإحصائيات، وأنيميشن تحميل جديد.",
     "force": false,
-    "code": 5,
+    "code": 6,
     "minCode": 0,
-    "sha256": "cb36dc1f92f0d5f6dcb85ef4756ea9a5c22801343e0ccc8d85db2cea9df61bf0"
+    "sha256": "58611013a1055bb528ca6337dda53e6c2632e9f051387f62f2df921762ae6180"
   }
 }
