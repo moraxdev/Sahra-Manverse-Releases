@@ -1,11 +1,11 @@
 {
   "android": {
-    "version": "0.4.4",
-    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.4.apk",
-    "notes": "صفحة التوب بتعرض رقم آخر فصل كنص عادي بدل عدد الفصول.",
+    "version": "0.4.5",
+    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.5.apk",
+    "notes": "إصلاح البحث اللي ما كانش بيطلّع نتايج مع ترتيب التقييم، وبيانات الحقوق بقت تحت دايماً.",
     "force": false,
-    "code": 11,
+    "code": 12,
     "minCode": 0,
-    "sha256": "78a47eb6aeacade4fa089b7cc42b3bee4b5dbecee5c66ce399ea07e9fec4d942"
+    "sha256": "f7e4f83e61f0491c5d63695e004a32bb9d95e5a732eba13d69fdccfc68b84a46"
   }
 }
