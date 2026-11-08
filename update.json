@@ -1,11 +1,11 @@
 {
   "android": {
-    "version": "0.4.5",
-    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.5.apk",
-    "notes": "إصلاح البحث اللي ما كانش بيطلّع نتايج مع ترتيب التقييم، وبيانات الحقوق بقت تحت دايماً.",
+    "version": "0.4.6",
+    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.6.apk",
+    "notes": "زرار الفصول جوه القارئ تنط منه لأي فصل، وإصلاح زرار الرجوع اللي كان بيفتح القارئ تاني.",
     "force": false,
-    "code": 12,
+    "code": 13,
     "minCode": 0,
-    "sha256": "f7e4f83e61f0491c5d63695e004a32bb9d95e5a732eba13d69fdccfc68b84a46"
+    "sha256": "924cce96b96213e2eaa6933a69230b45d6301c98b9e73ff50b7ddb71086ac942"
   }
 }
