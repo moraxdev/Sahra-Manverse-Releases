@@ -1,11 +1,11 @@
 {
   "android": {
-    "version": "0.3.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.3.1.apk",
-    "notes": "إصلاح القفل في فصول المانهوا الطويلة، تحميل أسرع في كل الصفحات خصوصاً الإحصائيات، وأنيميشن تحميل جديد.",
+    "version": "0.4.0",
+    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.0.apk",
+    "notes": "شيلنا MangaDex، إصلاح تهنيج جواهر مستخبية، وسجل الأعطال بقى بيلقط التهنيج كمان.",
     "force": false,
-    "code": 6,
+    "code": 7,
     "minCode": 0,
-    "sha256": "58611013a1055bb528ca6337dda53e6c2632e9f051387f62f2df921762ae6180"
+    "sha256": "bd843a543fcbea036fbdb2f1cd3a168917970cf04c617b06721f867f59e39cc1"
   }
 }
