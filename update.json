@@ -1,11 +1,11 @@
 {
   "android": {
-    "version": "0.2.1",
-    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.2.1.apk",
-    "notes": "نسخة موقّعة بالمفتاح الدائم، والتحديثات من هنا ورايح أوتوماتيك.",
+    "version": "0.2.2",
+    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.2.2.apk",
+    "notes": "إضافة بيانات المطوّر وحقوق النشر في الإعدادات والرئيسية.",
     "force": false,
-    "code": 3,
+    "code": 4,
     "minCode": 0,
-    "sha256": "c7a4f9999de0202713b4cf3705f5615fecb2c6d5f2b678ac15acc1094b36142c"
+    "sha256": "96accbcfb1c0de54e0fbe76f223b30f75beb9055aae7e6f1d83ed5d82bfc1e4f"
   }
 }
