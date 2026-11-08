@@ -1,11 +1,11 @@
 {
   "android": {
-    "version": "0.4.3",
-    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.3.apk",
-    "notes": "عدد فصول كل عمل في صفحة التوب، وإصلاح إن 3asq كان بيعرض آخر 50 فصل بس.",
+    "version": "0.4.4",
+    "url": "https://raw.githubusercontent.com/moraxdev/Sahra-Manverse-Releases/main/android/sahra-manverse-0.4.4.apk",
+    "notes": "صفحة التوب بتعرض رقم آخر فصل كنص عادي بدل عدد الفصول.",
     "force": false,
-    "code": 10,
+    "code": 11,
     "minCode": 0,
-    "sha256": "76a0a087c6876bf0c0a9c775bb4b10a271d0ecdc65ab82b038f8cf67fd69e389"
+    "sha256": "78a47eb6aeacade4fa089b7cc42b3bee4b5dbecee5c66ce399ea07e9fec4d942"
   }
 }
